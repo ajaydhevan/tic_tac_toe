@@ -1,3 +1,4 @@
+// This is cool
 #include <stdio.h>
 char a[3][3];
 void print_board();
